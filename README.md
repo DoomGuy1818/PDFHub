@@ -1,2 +1,7 @@
 # PDFHub
-PDFHub is a telegram bot which created to process a PDF files 
+PDFHub - это телеграм бот, который выполняет действия над PDF файлами
+
+/split - разделяет документ на части (указывается пользователем)
+/merge - соединяет два документа в единый документ
+/translate - перевод документа в pdf из другого формата (docx, и т.д.)
+
